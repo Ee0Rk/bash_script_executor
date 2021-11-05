@@ -1,0 +1,9 @@
+opacity=100
+script_site=https://rbxscript.com/
+file_types=txt files (*.txt)|*.txt|lua files (*.lua)|*.lua
+hide_opacity=0.8
+prog_name=RobloxPlayerBeta
+font_size=10
+version=1.1
+startx=830
+starty=1060
